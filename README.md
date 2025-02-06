@@ -12,10 +12,10 @@ and robustness of a few models and investigate how the data preprocessing may ha
 footprint on efficiency
 
 Requirements:
-python 3.8.10
-torch - 2.3.1
-tqdm - 4.66.4
-numpy - 1.24.4
-pandas - 2.0.3
-scikit-learn - 1.3.2
-matplotlib - 1.3.5
+- python 3.8.10
+- torch - 2.3.1
+- tqdm - 4.66.4
+- numpy - 1.24.4
+- pandas - 2.0.3
+- scikit-learn - 1.3.2
+- matplotlib - 1.3.5
