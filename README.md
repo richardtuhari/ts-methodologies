@@ -11,3 +11,12 @@ learning (ML) and deep learning (DL) models, among them simple neural networks, 
 k-NN, are promising alternatives. In this work, the main goal is to compare the errors
 and robustness of a few models and investigate how the data preprocessing may have a
 significant footprint on efficiency.
+
+Requirements:
+python 3.8.10
+torch - 2.3.1
+tqdm - 4.66.4
+numpy - 1.24.4
+pandas - 2.0.3
+scikit-learn - 1.3.2
+matplotlib - 1.3.5
